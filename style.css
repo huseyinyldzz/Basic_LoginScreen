@@ -1,0 +1,12 @@
+body {
+    background: gray;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    display: grid;
+}
+.LoginBtn{
+}
